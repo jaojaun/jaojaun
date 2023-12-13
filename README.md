@@ -14,11 +14,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
   </picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact"
-        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-      />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact" />
 </div>
 
