@@ -11,7 +11,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: dracula)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true" />
   </picture>
