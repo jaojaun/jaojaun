@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi i'm João 👋
+### Olá, eu sou joão
 
 <!--
 **jaojaun/jaojaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
