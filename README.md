@@ -15,9 +15,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=layout" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dark" />
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
