@@ -6,7 +6,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
