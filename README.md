@@ -15,7 +15,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
