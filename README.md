@@ -3,24 +3,9 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-<div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-  </picture>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaojaun&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojaun&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
